@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LED_Cube_Periph")(type "KiCad")(uri "${KIPRJMOD}/LED_Cube_Periph.kicad_sym")(options "")(descr ""))
+)
